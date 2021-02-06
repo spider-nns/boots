@@ -1,0 +1,9 @@
+server:
+  port: 8055
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: xxx
+    password: xxx
+    url: jdbc:mysql://xxx:xxx/xxx?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&allowMultiQueries=true&useSSL=true
+
